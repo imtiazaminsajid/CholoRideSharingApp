@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1062223472320",
+    "firebase_url": "https://cholo-ride-sharing-app.firebaseio.com",
+    "project_id": "cholo-ride-sharing-app",
+    "storage_bucket": "cholo-ride-sharing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062223472320:android:33b25f1edafc1282",
+        "android_client_info": {
+          "package_name": "com.example.imtiazaminsajid.cholo_ridesharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062223472320-acqaopqdrv7gcr3cujh6df4l4r9lsp13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imtiazaminsajid.cholo_ridesharingapp",
+            "certificate_hash": "9c68bd84d92451f260b4b5ff2865cebe64743ebb"
+          }
+        },
+        {
+          "client_id": "1062223472320-8t45iap80k2tgk1id28i3dilp6d0cfj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeidncYWuhB9rKmvmXMvm256v6Av06jBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062223472320-8t45iap80k2tgk1id28i3dilp6d0cfj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
